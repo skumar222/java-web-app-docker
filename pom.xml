@@ -98,7 +98,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>deployment</id>
 	      <name>deployment123</name>
@@ -109,7 +109,7 @@
 	      <name>deployment123</name>
 	      <url>http://15.206.90.235:8081/nexus/content/repositories/m2.0-snap/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<plugins>
