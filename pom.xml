@@ -101,12 +101,12 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>deployment</id>
-	      <name>release4.0</name>
+	      <name>deployment123</name>
 	      <url>http://15.206.90.235:8081/nexus/content/repositories/mobile2.0/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>deployment</id>
-	      <name>release4.0</name>
+	      <name>deployment123</name>
 	      <url>http://15.206.90.235:8081/nexus/content/repositories/m2.0-snap/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
