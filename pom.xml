@@ -100,14 +100,14 @@
 	
 	<!-- <distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <id>deployment</id>
+	      <name>release4.0</name>
+	      <url>http://15.206.90.235:8081/nexus/content/repositories/mobile2.0/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <id>deployment</id>
+	      <name>release4.0</name>
+	      <url>http://15.206.90.235:8081/nexus/content/repositories/m2.0-snap/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
