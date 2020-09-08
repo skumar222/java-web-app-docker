@@ -101,13 +101,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>deployment</id>
-	      <name>deployment123</name>
-	      <url>http://15.206.90.235:8081/nexus/content/repositories/mobile2.0/</url>
+	      <name>saikumar</name>
+	      <url>http://52.66.179.14:8081/repository/maven-releases//</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>deployment</id>
-	      <name>deployment123</name>
-	      <url>http://15.206.90.235:8081/nexus/content/repositories/m2.0-snap/</url>
+	      <name>saikumar</name>
+	      <url>http://52.66.179.14:8081/repository/maven-snapshots//</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
